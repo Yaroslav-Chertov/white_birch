@@ -9,6 +9,7 @@
   opacity: 0.5;
 }
 
+/* LEAD TEXT */
 .lead__title {
   padding-top: 64px;
 }
@@ -36,7 +37,7 @@
 
 /* BUTTON */
 .lead__callback {
-  padding-top: 96px;
+  padding: 96px 0 165px 0;
   display: flex;
   justify-content: center;
   align-items: center;
