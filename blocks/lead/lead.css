@@ -71,7 +71,7 @@
 
 .button__callback::before {
   left: -40px;
-  border-left: 40px solid #fff;
+  border-left: 41px solid #fff;
   border-top: 0 solid transparent;
   border-bottom: 0 solid transparent;
   clip-path: polygon(100% 0, 0 50%, 100% 100%);
@@ -79,7 +79,7 @@
 
 .button__callback::after {
   right: -40px;
-  border-right: 40px solid #fff;
+  border-right: 41px solid #fff;
   clip-path: polygon(0 0, 100% 50%, 0 100%);
 }
 
